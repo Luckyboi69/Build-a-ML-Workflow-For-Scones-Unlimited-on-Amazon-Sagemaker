@@ -15,5 +15,3 @@ Created three lambda functions: lambda1.py is responsible for data generation. l
 4) Deploying, Testing and Evaluation:
 Deployed model to an endpoint and performed several step function invocations for predictions using data from the test dataset. This process should has given me confidence that the workflow both succeeds AND fails as expected. In addition, used captured data from SageMaker Model Monitor to create a visualization to monitor the model.
 
-Screenshots of workflow:
-Both the Workflow fail and success status with their respective event logs are stored in the screenshots folder of this repository.
